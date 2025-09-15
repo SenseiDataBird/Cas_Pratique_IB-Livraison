@@ -49,6 +49,12 @@
       - `catchup=True`, `start_date=<lundi récent 09:00>`
       Question : ce bloc est-il présent et **à jour** ?
 
+#### Dernière étape : Vérification des rapports d'exécution automatique disponible sous `Git/repport_to_evaluate/...` :
+
+*À l'aide de ses rapports fréquents, vous serez capable de visualiser les performances techniques du modèle et de faire des recommandations !*
+
+**La boucle est bouclée.**
+
 ## Livrables attendus
 
 1) **Lecture** : cochez chaque point de la checklist et notez les écarts repérés.  
